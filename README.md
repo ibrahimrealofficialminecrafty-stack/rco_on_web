@@ -4,5 +4,5 @@ CAUTION: tool only works with linux and double click the run.sh file to enable t
 rco_on_web by hikaGG
 one man project :)
 (it was rlly easy)
-and fuck sonys protections
+and sonys protections are weak :)
 deps: python3, flask (in venv/)
